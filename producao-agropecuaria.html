@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>OAC - Área Temática | Produção Agropecuária</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=309856382"/>
-  <link rel="stylesheet" type="text/css" href="css/master_politicaspublicas.css?crc=312982711"/>
-  <link rel="stylesheet" type="text/css" href="css/producao-agropecuaria.css?crc=43877836" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_politicaspublicas.css?crc=3804384504"/>
+  <link rel="stylesheet" type="text/css" href="css/producao-agropecuaria.css?crc=3908668672" id="pagesheet"/>
     <!--HTML Widget code-->
   
       <style>
@@ -100,6 +100,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
       </style>
     
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/>	
+		
       <style>
 
         #page #u33362 {
@@ -179,98 +181,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
       </style>
     
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/>	
-		
-      <style>
-
-        #page #u33602 {
-          display: none;
-        }
-
-        body .u33602-mt_btn_top {
-          opacity: 0;
-          visibility: hidden;
-          position: fixed;
-          padding: 15px;
-          z-index: 999;
-          display: inline-block;
-          background: rgba(255,255,255, 1);
-          border: 0px solid rgba(56,56,56, 1);
-          outline: none;
-          font-size: 14px;
-          text-decoration: none !important;
-          color: rgb(0,113,188);
-          border-radius: 5px;
-          transition: visibility 1s, opacity 1s;
-          font-family: Source Sans Pro, Arial, sans-serif;
-          min-width: calc(50px - 30px);
-          height: calc(50px - 30px);
-          line-height: calc(50px - 30px);
-          text-align: center;
-          transition-delay: 0s;
-        }
-
-        body .u33602-mt_btn_top.show_scroll {
-          opacity: 1;
-          visibility: visible;
-        }
-       
-        body .u33602-mt_btn_top .u33602-mt-scrolltop-arrow {
-          display: inline-block;
-          position: relative;
-          text-align: center;
-          color: rgb(0,113,188);
-          margin-left: .75em;
-          border-radius: 5px;
-          vertical-align: middle;
-        }
-
-        body .u33602-mt_btn_top .u33602-mt-scrolltop-arrow:after {
-          content: '';
-          display: inline-block;
-          width: 10px;
-          height: 10px;
-          border-top: 2px solid rgb(0,113,188);
-          border-right: 2px solid rgb(0,113,188);
-          -moz-transform: rotate(-45deg);
-          -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
-          vertical-align: middle;
-        }
-
-        body .u33602-mt_btn_top.arrow-only .u33602-mt-scrolltop-arrow {
-          margin-left: 0;
-          margin-top: 1px;
-        }
-
-        body .u33602-mt_btn_top:hover {
-          background: rgba(41,171,226, 1);
-          border-color: rgba(126,124,124, 1);
-          color: rgb(255,255,255);
-        }
-
-        body .u33602-mt_btn_top:hover .u33602-mt-scrolltop-arrow:after {
-          border-top: 2px solid rgb(255,255,255);
-          border-right: 2px solid rgb(255,255,255);
-        }
-
-        button::-moz-focus-inner {
-          border: none;
-        }
-
-      </style>
-    
  </head>
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu32379"><!-- group -->
     <div class="size_fixed grpelem" id="u32379"><!-- custom html -->
-     
-       
-    
-    </div>
-    <div class="size_fixed grpelem" id="u33362"><!-- custom html -->
      
        
     
@@ -350,11 +266,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>Fundesa</p>
      </div>
     </div>
-    <div class="size_fixed grpelem" id="u33602"><!-- custom html -->
-     
-       
-    
-    </div>
     <div class="clip_frame grpelem" id="u15881"><!-- image -->
      <img class="block" id="u15881_img" src="images/bg-rodape.png?crc=3826970531" alt="" width="1448" height="169"/>
     </div>
@@ -386,6 +297,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix grpelem" id="u16025-4" data-IBE-flags="txtStyleSrc"><!-- content -->
      <p>Redes Sociais</p>
+    </div>
+    <div class="size_fixed grpelem" id="u33362"><!-- custom html -->
+     
+       
+    
     </div>
     <div class="clip_frame grpelem" id="u16799"><!-- image -->
      <img class="block" id="u16799_img" src="images/bg-pp.png?crc=3953673741" alt="" width="1448" height="453"/>
@@ -555,6 +471,16 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
       </script>
 
     
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+			<script>
+				$('.politicaspublicas').addClass('wow fadeIn');
+			</script>
+
+			<script>
+			   new WOW().init();
+			</script>
+		
       <script>
         console.log("Back To Top Button (1.1) - MuseThemes");
       </script>
@@ -647,122 +573,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
               $('.u33362-mt_btn_top').addClass('show_scroll');
             } else {
               $('.u33362-mt_btn_top').removeClass('show_scroll');
-            }
-
-          }, 200);
-
-          $(window).scroll(function(){
-            showOrHideButton();
-          });
-
-
-        });
-      }  
-      </script>
-
-    
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-			<script>
-				$('.politicaspublicas').addClass('wow fadeIn');
-			</script>
-
-			<script>
-			   new WOW().init();
-			</script>
-		
-      <script>
-        console.log("Back To Top Button (1.1) - MuseThemes");
-      </script>
-
-      <script>
-      var checkIfNoteMuse = $('#page').length;
-
-      if (checkIfNoteMuse !== 0) {
-
-        function debounce(func, wait, immediate) {
-          var timeout;
-          return function () {
-            var context = this, args = arguments;
-            var later = function () {
-              timeout = null;
-              if (!immediate) func.apply(context, args);
-            };
-        
-            var callNow = immediate && !timeout;
-            clearTimeout(timeout);
-            timeout = setTimeout(later, wait);
-            if (callNow) func.apply(context, args);
-          };
-        }
-
-        $(document).ready(function(){
-
-          var buttonText = 'Início da página';
-
-          if (buttonText.length > 0) {
-            $('body').append('<a href="#" class="u33602-mt_btn_top">Início da página <span class="u33602-mt-scrolltop-arrow"></span></a>');
-          } else {
-            $('body').append('<a href="#" class="u33602-mt_btn_top arrow-only"><span class="u33602-mt-scrolltop-arrow"></span></a>');
-          }
-
-          if ("disable" == "enable") {
-            $( "<style>@media (min-width: 720px) and (max-width: 1280px) {body .u33602-mt_btn_top {display: none !important;}}</style>" ).appendTo( "head" );
-          }
-
-          var scrollSpeed = 400;
-          var $base = $('html, body');
-          var alignment = 'right';
-
-          switch(alignment) {
-            case 'center':
-              var paddingBottom = '20';
-              var widthOfElement = $('.u33602-mt_btn_top').outerWidth();
-              widthOfElement = widthOfElement / 2;
-              $('.u33602-mt_btn_top').css('left', '50%');
-              $('.u33602-mt_btn_top').css('margin-left', '-' + widthOfElement + 'px');
-              $('.u33602-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            case 'left':
-              var paddingLeft = '30';
-              var paddingBottom = '20';
-              $('.u33602-mt_btn_top').css('left', paddingLeft + 'px');
-              $('.u33602-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            case 'right':
-              var paddingRight = '30';
-              var paddingBottom = '20';
-              $('.u33602-mt_btn_top').css('right', paddingRight + 'px');
-              $('.u33602-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            default: 
-              var paddingBottom = '20';
-              $('.u33602-mt_btn_top').css('left', '50%');
-              $('.u33602-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-          }
-
-          $('.u33602-mt_btn_top').on('click', function(e){
-            
-            e.preventDefault();
-            
-            $base.animate({
-              scrollTop: 0
-            }, scrollSpeed);
-
-          });
-
-          var showButtonValue = parseInt('100');
-
-          var showOrHideButton = debounce(function(){
-
-            if ($(window).scrollTop() > showButtonValue) {
-              $('.u33602-mt_btn_top').addClass('show_scroll');
-            } else {
-              $('.u33602-mt_btn_top').removeClass('show_scroll');
             }
 
           }, 200);
