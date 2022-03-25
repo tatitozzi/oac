@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://testeoac.000webhostapp.com/index.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,9 +66,6 @@
       <image:loc>https://testeoac.000webhostapp.com/images/logo-gov-sc.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/circulo-07.png</image:loc>
     </image:image>
     <image:image>
@@ -125,7 +122,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/politicas-publicas.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,9 +145,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -158,7 +152,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/comercio-exterior.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,9 +175,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -191,7 +182,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/desenvolvimento-agro.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -214,9 +205,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -224,7 +212,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/comercio-interestadual.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -247,9 +235,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -257,7 +242,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/desenvolvimento-rural.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -280,9 +265,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -290,7 +272,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/producao-agropecuaria.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -313,9 +295,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -323,7 +302,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/infraestrutura.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -346,9 +325,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -356,7 +332,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/mercado-agropecuario.html</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -379,9 +355,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
@@ -422,5 +395,176 @@
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/seo-bddb-2.gif</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/politicas-publicas-terra-boa.html</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/politicas-publicas-fomento-geral.html</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/politicas-publicas-pronaf.html</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/politicas-publicas-copiar.html</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/2000.html</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-iniciopg2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-pp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/seo-bddb-2.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/dashs.html</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
