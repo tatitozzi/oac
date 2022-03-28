@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://testeoac.000webhostapp.com/index.html</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -43,9 +43,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/icone-diadecampo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-diadecampo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
@@ -593,7 +590,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/1920.html</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -634,9 +631,6 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/icone-diadecampo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-diadecampo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
