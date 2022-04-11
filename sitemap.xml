@@ -707,7 +707,7 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/resp.html</loc>
-    <lastmod>2022-04-06</lastmod>
+    <lastmod>2022-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -730,6 +730,9 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp-crop-u42332.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp720x146.png</image:loc>
     </image:image>
   </url>
 </urlset>

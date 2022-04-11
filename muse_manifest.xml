@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://testeoac.000webhostapp.com" resolutions="1x" timestamp="1649253614913">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://testeoac.000webhostapp.com" resolutions="1x" timestamp="1649685316800">
   <folder name="css">
     <file name="site_global.css" crc="309856382"/>
     <file name="master_politicaspublicas.css" crc="288137295" ref="comercio-exterior:mercado-agropecuario:infraestrutura:desenvolvimento-agro:producao-agropecuaria:comercio-interestadual:desenvolvimento-rural:politicas-publicas-copiar"/>
@@ -27,10 +27,10 @@
     <file name="master_a-mestre-1920.css" crc="259583209" ref="index:1920"/>
     <file name="1920.css" crc="4200706629" ref="1920"/>
     <file name="master_politicaspublicas-1920.css" crc="3768302300" ref="politicas-publicas"/>
-    <file name="master_responsivo-pp.css" crc="4036483528" ref="resp"/>
-    <file name="nomq_preview_master_responsivo-pp.css" crc="3923388362" ref="resp"/>
-    <file name="resp.css" crc="211532821" ref="resp"/>
-    <file name="nomq_resp.css" crc="15164759" ref="resp"/>
+    <file name="master_responsivo-pp.css" crc="3846859495" ref="resp"/>
+    <file name="nomq_preview_master_responsivo-pp.css" crc="270791799" ref="resp"/>
+    <file name="resp.css" crc="4000428458" ref="resp"/>
+    <file name="nomq_resp.css" crc="332606473" ref="resp"/>
     <file name="nomq_preview_master_politicaspublicas.css" crc="3824530138" ref="comercio-exterior:comercio-interestadual:producao-agropecuaria:infraestrutura:desenvolvimento-agro:mercado-agropecuario:politicas-publicas-copiar:desenvolvimento-rural"/>
     <file name="nomq_preview_master_b-mestre.css" crc="3824530138" ref="dashs"/>
     <file name="nomq_preview_master_politicaspublicas-1920.css" crc="3824530138" ref="politicas-publicas"/>
@@ -177,63 +177,66 @@
     <file name="logo-oac.png" crc="3830633293" seo="true" ref="politicas-publicas:index:comercio-exterior:desenvolvimento-agro:comercio-interestadual:desenvolvimento-rural:producao-agropecuaria:infraestrutura:mercado-agropecuario:página-em-desenvolvimento:politicas-publicas-terra-boa:politicas-publicas-fomento-geral:politicas-publicas-pronaf:politicas-publicas-copiar:2000:1920:resp">
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
-      <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
-      <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
-      <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="comercio-interestadual" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="politicas-publicas-terra-boa" alt=""/>
-      <caption webpage="mercado-agropecuario" alt=""/>
-      <caption webpage="desenvolvimento-rural" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
-      <caption webpage="politicas-publicas-pronaf" alt=""/>
-      <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
+      <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
+      <caption webpage="infraestrutura" alt=""/>
+      <caption webpage="mercado-agropecuario" alt=""/>
+      <caption webpage="producao-agropecuaria" alt=""/>
+      <caption webpage="desenvolvimento-agro" alt=""/>
+      <caption webpage="desenvolvimento-rural" alt=""/>
+      <caption webpage="comercio-exterior" alt=""/>
+      <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
+      <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="oac---área-temática--produção-agropecuária" alt=""/>
-      <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="infraestrutura" alt=""/>
-      <caption webpage="página-em-desenvolvimento" alt=""/>
-      <caption webpage="producao-agropecuaria" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
-      <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="comercio-exterior" alt=""/>
+      <caption webpage="politicas-publicas-pronaf" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="politicas-publicas-copiar" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
+      <caption webpage="página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--produção-agropecuária" alt=""/>
       <caption webpage="politicas-publicas-fomento-geral" alt=""/>
+      <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
+      <caption webpage="politicas-publicas-terra-boa" alt=""/>
+      <caption webpage="comercio-interestadual" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
     </file>
     <file name="bg-ondapp.png" crc="3760854954" seo="true" ref="politicas-publicas:comercio-exterior:desenvolvimento-agro:comercio-interestadual:desenvolvimento-rural:producao-agropecuaria:infraestrutura:mercado-agropecuario:página-em-desenvolvimento:politicas-publicas-terra-boa:politicas-publicas-fomento-geral:politicas-publicas-pronaf:politicas-publicas-copiar:2000:resp">
       <caption webpage="2000" alt=""/>
-      <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
-      <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
-      <caption webpage="politicas-publicas-fomento-geral" alt=""/>
-      <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
-      <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-interestadual" alt=""/>
-      <caption webpage="oac---área-temática--produção-agropecuária" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
+      <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
+      <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
       <caption webpage="infraestrutura" alt=""/>
-      <caption webpage="politicas-publicas-terra-boa" alt=""/>
-      <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="comercio-exterior" alt=""/>
-      <caption webpage="desenvolvimento-rural" alt=""/>
-      <caption webpage="página-em-desenvolvimento" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
-      <caption webpage="producao-agropecuaria" alt=""/>
-      <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="politicas-publicas-pronaf" alt=""/>
+      <caption webpage="mercado-agropecuario" alt=""/>
+      <caption webpage="producao-agropecuaria" alt=""/>
+      <caption webpage="politicas-publicas-copiar" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
+      <caption webpage="página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--produção-agropecuária" alt=""/>
+      <caption webpage="politicas-publicas-fomento-geral" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
+      <caption webpage="desenvolvimento-rural" alt=""/>
+      <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
+      <caption webpage="comercio-exterior" alt=""/>
+      <caption webpage="politicas-publicas-terra-boa" alt=""/>
+      <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
     </file>
     <file name="bg-rodape.png" crc="3826970531" seo="true" ref="politicas-publicas:comercio-exterior:desenvolvimento-agro:comercio-interestadual:desenvolvimento-rural:producao-agropecuaria:infraestrutura:mercado-agropecuario:página-em-desenvolvimento:politicas-publicas-terra-boa:politicas-publicas-fomento-geral:politicas-publicas-pronaf:politicas-publicas-copiar:2000">
       <caption webpage="2000" alt=""/>
@@ -461,18 +464,12 @@
       <caption webpage="página-em-desenvolvimento" alt=""/>
     </file>
     <file name="linha.png" crc="432551869" seo="true" ref="politicas-publicas:comercio-exterior:desenvolvimento-agro:comercio-interestadual:desenvolvimento-rural:producao-agropecuaria:infraestrutura:mercado-agropecuario:politicas-publicas-copiar:resp">
-      <caption webpage="producao-agropecuaria" alt=""/>
-      <caption webpage="producao-agropecuaria" alt=""/>
-      <caption webpage="comercio-exterior" alt=""/>
-      <caption webpage="comercio-exterior" alt=""/>
       <caption webpage="desenvolvimento-rural" alt=""/>
       <caption webpage="desenvolvimento-rural" alt=""/>
-      <caption webpage="mercado-agropecuario" alt=""/>
-      <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-interestadual" alt=""/>
       <caption webpage="comercio-interestadual" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
+      <caption webpage="comercio-exterior" alt=""/>
+      <caption webpage="comercio-exterior" alt=""/>
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
@@ -485,10 +482,14 @@
       <caption webpage="resp" alt=""/>
       <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="politicas-publicas" alt=""/>
-      <caption webpage="infraestrutura" alt=""/>
-      <caption webpage="infraestrutura" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
+      <caption webpage="infraestrutura" alt=""/>
+      <caption webpage="infraestrutura" alt=""/>
+      <caption webpage="mercado-agropecuario" alt=""/>
+      <caption webpage="mercado-agropecuario" alt=""/>
+      <caption webpage="producao-agropecuaria" alt=""/>
+      <caption webpage="producao-agropecuaria" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
     </file>
@@ -512,13 +513,12 @@
     <file name="u38324-4.png" crc="193058163" ref="index:1920"/>
     <file name="u38309-4.png" crc="3952827394" ref="index:1920"/>
     <file name="blank.gif" crc="4208392903" ref="resp"/>
-    <file name="novo-bg-crop-u45017.png" crc="277981031" seo="true" ref="resp">
-      <caption webpage="resp" alt=""/>
+    <file name="novo-bg-crop-u45017.png" crc="3818775061" seo="true" ref="resp">
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
     </file>
-    <file name="novo-bg-crop-u42334.png" crc="407077991" seo="true" ref="resp">
+    <file name="novo-bg-crop-u42334.png" crc="234346367" seo="true" ref="resp">
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
@@ -528,13 +528,11 @@
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
       <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
+    </file>
+    <file name="bg-ondapp-crop-u42332.png" crc="333456993" seo="true" ref="resp">
       <caption webpage="resp" alt=""/>
     </file>
-    <file name="bg-ondapp-crop-u42332.png" crc="420313943" seo="true" ref="resp">
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
+    <file name="bg-ondapp720x146.png" crc="4099635884" seo="true" ref="resp">
       <caption webpage="resp" alt=""/>
     </file>
   </folder>
@@ -555,5 +553,5 @@
   <file name="2000.html" crc="345426189" seo="true" mt="1649092154998" redirect="true"/>
   <file name="dashs.html" crc="67328595" seo="true" mt="1649092154986" redirect="true"/>
   <file name="1920.html" crc="252005747" seo="true" mt="1649092155009" redirect="true"/>
-  <file name="resp.html" crc="3790033016" seo="true" mt="1649253556020" redirect="true"/>
+  <file name="resp.html" crc="4142559714" seo="true" mt="1649685279926" redirect="true"/>
 </manifest>
