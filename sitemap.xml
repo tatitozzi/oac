@@ -720,6 +720,9 @@
       <image:loc>https://testeoac.000webhostapp.com/images/linha.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/novo-bg.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/novo-bg-crop-u45017.png</image:loc>
     </image:image>
     <image:image>
@@ -729,10 +732,10 @@
       <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp-crop-u42829.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp-crop-u42332.png</image:loc>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp720x146.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp720x146.png</image:loc>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp480x97.png</image:loc>
     </image:image>
   </url>
 </urlset>
