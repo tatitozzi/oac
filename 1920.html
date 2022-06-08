@@ -145,7 +145,17 @@ to use and available for download at: http://adobemuseexpert.com/
 --------------------------------------------------------------------------------
 ================================================================================
 -------------------------------------------------------------------------------> 
-			
+      <script>
+        (function (d, s, u) {
+          let h = d.getElementsByTagName(s)[0], k = d.createElement(s);
+          k.onload = function () {
+            let l = d.createElement(s); l.src = u; l.async = true;
+            h.parentNode.insertBefore(l, k.nextSibling);
+          };
+          k.async = true; k.src = 'https://storage.googleapis.com/push-webchat/wwc-latest.js';
+          h.parentNode.insertBefore(k, h);
+        })(document, 'script', 'https://weni-sp-integrations-production.s3.amazonaws.com/apptypes/wwc/7ed8f07c-30e2-4613-8153-61b4e587ede5/script.js');
+      </script>
 		
   
   <div class="clearfix borderbox" id="page"><!-- group -->
@@ -695,19 +705,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
         });
       }  
-      
-      (function (d, s, u) {
-          let h = d.getElementsByTagName(s)[0], k = d.createElement(s);
-          k.onload = function () {
-            let l = d.createElement(s); l.src = u; l.async = true;
-            h.parentNode.insertBefore(l, k.nextSibling);
-          };
-          k.async = true; k.src = 'https://storage.googleapis.com/push-webchat/wwc-latest.js';
-          h.parentNode.insertBefore(k, h);
-        })(document, 'script', 'https://weni-sp-integrations-production.s3.amazonaws.com/apptypes/wwc/7ed8f07c-30e2-4613-8153-61b4e587ede5/script.js');
-
       </script>
-
 
    </body>
 </html>
