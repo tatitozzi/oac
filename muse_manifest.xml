@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://testeoac.000webhostapp.com" resolutions="1x" timestamp="1658425383707">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://testeoac.000webhostapp.com" resolutions="1x" timestamp="1658427460567">
   <folder name="css">
     <file name="site_global.css" crc="309856382"/>
     <file name="master_politicaspublicas.css" crc="288137295" ref="comercio-exterior:mercado-agropecuario:infraestrutura:desenvolvimento-agro:producao-agropecuaria:comercio-interestadual:desenvolvimento-rural:politicas-publicas-copiar"/>
@@ -57,8 +57,8 @@
     <file name="playlist.css" crc="111085468" ref="playlist"/>
     <file name="master_playlistaudio.css" crc="3987622978" ref="playlistaudio"/>
     <file name="playlistaudio.css" crc="4169157229" ref="playlistaudio"/>
-    <file name="master_a-mestre-1920--altera__es.css" crc="3949626627" ref="adaptado"/>
-    <file name="adaptado.css" crc="4260975707" ref="adaptado"/>
+    <file name="master_a-mestre-1920--altera__es.css" crc="3947696542" ref="adaptado"/>
+    <file name="adaptado.css" crc="207575364" ref="adaptado"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:politicas-publicas:comercio-exterior:desenvolvimento-agro:comercio-interestadual:desenvolvimento-rural:producao-agropecuaria:infraestrutura:mercado-agropecuario:página-em-desenvolvimento:politicas-publicas-terra-boa:politicas-publicas-fomento-geral:politicas-publicas-pronaf:politicas-publicas-copiar:2000:dashs:1920:resp:ppr:playlist:playlistaudio:adaptado"/>
@@ -80,6 +80,7 @@
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-exterior" alt=""/>
@@ -92,8 +93,7 @@
       <caption webpage="dashs-copiar" alt=""/>
       <caption webpage="playlist" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="adaptado" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
       <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
@@ -101,9 +101,9 @@
       <caption webpage="infraestrutura" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="adaptado" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
@@ -115,6 +115,7 @@
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-exterior" alt=""/>
@@ -127,8 +128,7 @@
       <caption webpage="dashs-copiar" alt=""/>
       <caption webpage="playlist" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="adaptado" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
       <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
@@ -136,9 +136,9 @@
       <caption webpage="infraestrutura" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="adaptado" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
@@ -150,6 +150,7 @@
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-exterior" alt=""/>
@@ -162,8 +163,7 @@
       <caption webpage="dashs-copiar" alt=""/>
       <caption webpage="playlist" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="adaptado" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
       <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
@@ -171,9 +171,9 @@
       <caption webpage="infraestrutura" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="adaptado" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
@@ -185,6 +185,7 @@
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-exterior" alt=""/>
@@ -197,8 +198,7 @@
       <caption webpage="dashs-copiar" alt=""/>
       <caption webpage="playlist" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
-      <caption webpage="politicas-publicas" alt=""/>
+      <caption webpage="adaptado" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
       <caption webpage="oac---área-temática--comércio-exterior" alt=""/>
@@ -206,9 +206,9 @@
       <caption webpage="infraestrutura" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
-      <caption webpage="adaptado" alt=""/>
+      <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
       <caption webpage="ppr" alt=""/>
@@ -220,13 +220,17 @@
       <caption webpage="1920" alt=""/>
       <caption webpage="2000" alt=""/>
       <caption webpage="oac---área-temática--desenvolvimento-agro" alt=""/>
-      <caption webpage="ppr" alt=""/>
-      <caption webpage="ppr" alt=""/>
-      <caption webpage="ppr" alt=""/>
-      <caption webpage="ppr" alt=""/>
+      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
       <caption webpage="oac---área-temáticas--politícas-públicas" alt=""/>
       <caption webpage="mercado-agropecuario" alt=""/>
       <caption webpage="comercio-exterior" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
+      <caption webpage="resp" alt=""/>
       <caption webpage="politicas-publicas-fomento-geral" alt=""/>
       <caption webpage="playlistaudio" alt=""/>
       <caption webpage="desenvolvimento-rural" alt=""/>
@@ -236,7 +240,6 @@
       <caption webpage="dashs-copiar" alt=""/>
       <caption webpage="playlist" alt=""/>
       <caption webpage="politicas-publicas-copiar" alt=""/>
-      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
       <caption webpage="politicas-publicas" alt=""/>
       <caption webpage="desenvolvimento-agro" alt=""/>
       <caption webpage="oac---área-temática--nfraestrutura" alt=""/>
@@ -247,14 +250,11 @@
       <caption webpage="oac---área-temática--desenvolvimento-rural" alt=""/>
       <caption webpage="adaptado" alt=""/>
       <caption webpage="oac---área-temática--mercado-agropecuário" alt=""/>
-      <caption webpage="oac---página-em-desenvolvimento" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
-      <caption webpage="resp" alt=""/>
+      <caption webpage="oac---área-temática--comércio-interestadual" alt=""/>
+      <caption webpage="ppr" alt=""/>
+      <caption webpage="ppr" alt=""/>
+      <caption webpage="ppr" alt=""/>
+      <caption webpage="ppr" alt=""/>
       <caption webpage="oac---área-temática--produção-agropecuária" alt=""/>
       <caption webpage="politicas-publicas-terra-boa" alt=""/>
     </file>
@@ -660,9 +660,9 @@
     </file>
     <file name="u65029-4.png" crc="453498956" ref="playlist"/>
     <file name="u65085-4.png" crc="453498956" ref="playlistaudio"/>
-    <file name="u67439-4.png" crc="4049989031" ref="adaptado"/>
-    <file name="u67447-4.png" crc="358796773" ref="adaptado"/>
-    <file name="u67434-4.png" crc="203485857" ref="adaptado"/>
+    <file name="u67439-4.png" crc="3904884266" ref="adaptado"/>
+    <file name="u67447-4.png" crc="170617038" ref="adaptado"/>
+    <file name="u67434-4.png" crc="215046621" ref="adaptado"/>
   </folder>
   <file name="index.html" crc="4201480519" seo="true" mt="1649092155081" redirect="true"/>
   <file name="politicas-publicas.html" crc="3988879983" seo="true" mt="1649092155076" redirect="true"/>
@@ -685,5 +685,5 @@
   <file name="ppr.html" crc="6948733" seo="true" mt="1649773406905" redirect="true"/>
   <file name="playlist.html" crc="4077781412" seo="true" mt="1652794254241" redirect="true"/>
   <file name="playlistaudio.html" crc="3811677437" seo="true" mt="1652794703647" redirect="true"/>
-  <file name="adaptado.html" crc="3817826847" seo="true" mt="1658425297071" redirect="true"/>
+  <file name="adaptado.html" crc="4170480851" seo="true" mt="1658427414834" redirect="true"/>
 </manifest>
